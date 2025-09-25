@@ -19,7 +19,9 @@
 
 ## 📖 À Propos
 
-Ce projet est une **Pokédex interactive** moderne construite avec Vue.js 3 et TypeScript. Elle permet aux utilisateurs de rechercher et d'explorer les Pokémon avec une interface utilisateur élégante et entièrement responsive.
+Ce projet est ma **première application Vue.js** ! 🎉 Une **Pokédex interactive** moderne construite avec Vue.js 3 et TypeScript. Elle permet aux utilisateurs de rechercher et d'explorer les Pokémon avec une interface utilisateur élégante et entièrement responsive.
+
+> 💡 **Note**: Ceci est mon premier projet avec Vue.js. J'ai appris beaucoup en le développant et j'ai hâte de créer d'autres applications avec ce framework incroyable !
 
 ### ✨ Fonctionnalités
 
@@ -174,6 +176,27 @@ theme: {
 
 ---
 
+## 🎓 Apprentissages et Projets Futurs
+
+### 🧠 Ce que j'ai appris avec ce projet :
+- **Vue.js 3** avec Composition API et `<script setup>`
+- **TypeScript** pour un code plus robuste
+- **Tailwind CSS** pour un design moderne et responsive
+- **Vite** pour un développement ultra-rapide
+- **Git & GitHub** pour le contrôle de version
+- **Deploy** avec Vercel et résolution de problèmes TypeScript
+
+### 🚀 Projets futurs prévus :
+- **Application de gestion de tâches** avec Vue.js
+- **Dashboard administratif** avec Vue + TypeScript
+- **Jeu interactif** utilisant Vue.js
+- **Application e-commerce** avec Vue.js et backend
+- **Portfolio personnel** avec animations Vue.js
+
+> 💪 **Objectif** : Continuer à explorer Vue.js et créer des applications de plus en plus complexes !
+
+---
+
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues ! Pour contribuer :
@@ -194,9 +217,11 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👨‍💻 Auteur
 
-**Votre Nom**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Votre Profil](https://linkedin.com/in/your-profile)
+**Gedeon** - Développeur en apprentissage 🚀
+- GitHub: [@GEDEON1708](https://github.com/GEDEON1708)
+- **Premier projet Vue.js** - En route vers de nouvelles aventures !
+
+> 🌱 **Développeur passionné** qui découvre Vue.js et prévoit de créer de nombreux projets intéressants !
 
 ---
 
@@ -210,6 +235,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ---
 
 <div align="center">
-  <p>Fait avec ❤️ et Vue.js</p>
+  <p>Fait avec ❤️, Vue.js et beaucoup d'apprentissage !</p>
+  <p>🎯 Premier projet Vue.js réussi - Prêt pour les suivants !</p>
   <p>⭐ N'hésitez pas à donner une étoile si ce projet vous a aidé !</p>
 </div>
